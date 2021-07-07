@@ -1,7 +1,7 @@
 <h1><img src="https://cultofthepartyparrot.com/flags/hd/franceparrot.gif" width="30"/> Hello everyone, I'm Faris !</h1>
 
 <p>I'm a Junior Fullstack Developer from <b>Paris, France</b> <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/>, currently studying Software Engineering at Efrei Paris !</p>
-<h3>Things I code with</h3>
+<h3>Technologies I use :</h3>
 <p>
   <img alt="VSCode" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
