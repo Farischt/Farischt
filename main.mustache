@@ -21,10 +21,10 @@
 </p>
 
 <a href="https://github.com/Farischt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Farischt&show_icons=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=farischt&count_private=true&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/Farischt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farischt&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farischt&layout=compact" />
 </a>
 
 <h3>Where to find me</h3>
