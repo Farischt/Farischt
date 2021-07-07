@@ -1,0 +1,23 @@
+{
+  "name": "farischt",
+  "version": "1.0.0",
+  "description": "Github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Farischt/Farischt.git"
+  },
+  "author": "Duc-Thomas Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Farischt/Farischt/issues"
+  },
+  "homepage": "https://github.com/Farischt/Farischt#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mustache": "^4.0.1"
+  }
+}
