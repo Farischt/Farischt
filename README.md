@@ -1,9 +1,11 @@
 <h1><img src="https://cultofthepartyparrot.com/flags/hd/franceparrot.gif" width="30"/> Hello everyone, I'm Faris !</h1>
 
-<p>I'm a Junior Fullstack Developer from <b>Paris, France</b> <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/>, currently studying Software Engineering at Efrei Paris !</p>
+<p>I'm a Junior Fullstack Developer based in <b>Paris, France</b> <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/>, currently studying Software Engineering at Efrei Paris !</p>
 <h3>Technologies I use :</h3>
 <p>
   <img alt="VSCode" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-0db7ed?style=flat-square&logo=Docker&logoColor=white" />
+  <img alt="Vagrant" src="https://img.shields.io/badge/-Vagrant-145ff6?style=flat-square&logo=vagrant&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
   <img alt="React" src="https://img.shields.io/badge/-React-grey?style=flat-square&logo=react">
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-blueviolet?style=flat-square&logo=redux" >
@@ -30,4 +32,7 @@
 <h3>Where to find me</h3>
 <p><a href="https://github.com/Farischt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/farischtatou1999/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
 
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: <b>Wednesday, 29 September, 23:05 CEST<b> <br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+---
+
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: <b>Thursday, 30 September, 01:01 CEST<b> <br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+
