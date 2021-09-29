@@ -4,6 +4,8 @@
 <h3>Technologies I use :</h3>
 <p>
   <img alt="VSCode" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-0db7ed?style=flat-square&logo=Docker&logoColor=white" />
+  <img alt="Vagrant" src="https://img.shields.io/badge/-Vagrant-145ff6?style=flat-square&logo=vagrant&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
   <img alt="React" src="https://img.shields.io/badge/-React-grey?style=flat-square&logo=react">
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-blueviolet?style=flat-square&logo=redux" >
