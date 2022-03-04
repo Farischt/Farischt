@@ -1,19 +1,16 @@
 <h1><img src="https://cultofthepartyparrot.com/flags/hd/franceparrot.gif" width="30"/> Hello everyone, I'm Faris !</h1>
 
-<p>I'm a Junior Fullstack Developer based in <b>Paris, France</b> <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/>, currently studying Software Engineering at Efrei Paris !</p>
+<p>I'm a Junior Fullstack Developer based in <b>Paris, France</b>, currently studying Software Engineering at Efrei Paris !</p>
 <h3>Technologies I use :</h3>
 <p>
-  <img alt="VSCode" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-0db7ed?style=flat-square&logo=Docker&logoColor=white" />
-  <img alt="Vagrant" src="https://img.shields.io/badge/-Vagrant-145ff6?style=flat-square&logo=vagrant&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript" />
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
   <img alt="React" src="https://img.shields.io/badge/-React-grey?style=flat-square&logo=react">
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-blueviolet?style=flat-square&logo=redux" >
   <img alt="Next" src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js">
   <img alt="Node" src="https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js">
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-0db7ed?style=flat-square&logo=Docker&logoColor=white" />
+  <img alt="Vagrant" src="https://img.shields.io/badge/-Vagrant-145ff6?style=flat-square&logo=vagrant&logoColor=white" />
   <img alt="Pg" src="https://img.shields.io/badge/-Postgresql-lightgrey?style=flat-square&logo=postgresql" >
   <img alt="NPM" src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -34,5 +31,5 @@
 
 ---
 
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: <b>Friday, 4 March, 10:07 CET<b> <br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: <b>Friday, 4 March, 10:57 CET<b> <br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
 
